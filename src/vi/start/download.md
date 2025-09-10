@@ -32,3 +32,4 @@ Nếu như bạn chưa tham gia server Discord, vui lòng xem bài đăng về X
 
 Hãy đặt file .rar mà bạn đã tải về vào trong một thư mục rồi thêm thư mục đó vào [Danh Sách Loại Trừ](../guide/virus.md). Tiếp theo hãy giải nén file đó ra và làm theo [Hướng Dẫn](../guide/getkey.md)
 
+
